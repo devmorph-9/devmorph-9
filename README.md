@@ -1,4 +1,4 @@
-<h1 align="center" style="background:red">Hello World</h1>
+<h1 align="center" style="background-red">Hello World</h1>
 <h2 align="center">Welcome to my Profile</h2>
 <h3 align="center">I am a Developer</h3>
 
