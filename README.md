@@ -47,9 +47,22 @@
 ## Some More Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,bun,go,rust,html,css,vue,nextjs,django,flask,fastapi,react,nodejs,git,docker,kubernetes,spring,tailwind,tanstack,jupyter,github,gitlab,aws,firebase,mongodb,mysql,postgres,redis,vscode,vim,neovim,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,bun,go,rust,html,css,vue,nextjs,django,flask,fastapi,react,nodejs,git,docker,kubernetes,spring,tailwind,github,gitlab,aws,firebase,mongodb,mysql,postgres,redis,vscode,vim,neovim,linux,figma" />
   </a>
 </p>
+
+## Actual Tech Stack that i know currently
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,go,react,svelte,tailwind,scss,bun,nodejs,pnpm" />
+     <img src="https://skillicons.dev/icons?i=nextjs,django,flask,fastapi,spring" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis," />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,neovim,linux,figma" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" />
+    
+  </a>
+</p>
+
 
 <!-- loco 
 python, js, ts, java, cpp, rust, go, html, css,
