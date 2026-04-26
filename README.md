@@ -55,9 +55,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,go,react,svelte,tailwind,scss,bun,nodejs,pnpm" />
+    <br></br>
     <img src="https://skillicons.dev/icons?i=nextjs,django,flask,fastapi,spring" />
+     <br></br>
     <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis," />
+     <br></br>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,neovim,linux,figma" />
+     <br></br>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" />
     
   </a>
