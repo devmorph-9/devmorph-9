@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Devmorph 👋
 
 ## 🙋 About Me
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm learning **[Technology]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Your expertise]**
+- 🔭 I'm currently working on **SuperApp**
+- 🌱 I'm learning **Python**
+- 👯 I'm looking to collaborate on **SuperApp project**
+- 💬 Ask me about **4 year expirence in Java**
 - 📫 Reach me at: **your@email.com**
-- ⚡ Fun fact: **[Something interesting]**
+- ⚡ Fun fact: **This is created by AI**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,7 +14,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=radical)
+
+## Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=tokyonight)
+
+## Trophy casing
+![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=onedark)
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
