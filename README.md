@@ -14,13 +14,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=merko)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
 
 ## Streak Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=merko)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=gruvbox)
 
 ## Trophy casing
-![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=merko)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=gruvbox)
 
 
 ## 🔗 Connect With Me
