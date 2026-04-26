@@ -5,7 +5,7 @@
 - 🌱 I'm learning **Python**
 - 👯 I'm looking to collaborate on **SuperApp project**
 - 💬 Ask me about **4 year expirence in Java**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **devteams@email.com**
 - ⚡ Fun fact: **This is created by AI**
 
 ## 🛠️ Tech Stack
