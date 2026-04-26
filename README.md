@@ -47,9 +47,17 @@
 ## Some More Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,bun,go,rust,html,css,vue,nextjs,django,flask,fastapi,react,nodejs,git,docker,kubernetes,github,gitlab,aws,firebase,monogdb,mysql,postgres,redis,vscode,vim,neovim,nvim,linux,figma,xcode" />
   </a>
 </p>
+
+<!-- loco 
+python, js, ts, java, cpp, rust, go, html, css,
+react, vue, nextjs, nodejs, django, flask,
+git, docker, kubernetes, aws, firebase,
+mongodb, mysql, postgres, redis,
+vscode, linux, figma
+-->
 
 ## Even More Tech Stack
 <p align="center"> 
