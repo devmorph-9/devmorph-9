@@ -47,7 +47,7 @@
 ## Some More Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,bun,go,rust,html,css,vue,nextjs,django,flask,fastapi,react,nodejs,git,docker,kubernetes,spring,tailwind,github,gitlab,aws,firebase,mongodb,mysql,postgres,redis,vscode,vim,neovim,linux,figma,x,linkedin,instagram,youtube,twitter" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,bun,go,rust,html,css,vue,nextjs,django,flask,fastapi,react,nodejs,git,docker,kubernetes,spring,tailwind,github,gitlab,aws,firebase,mongodb,mysql,postgres,redis,vscode,vim,neovim,linux,figma,linkedin,instagram,yt,twitter" />
   </a>
 </p>
 
