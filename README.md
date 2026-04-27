@@ -54,7 +54,7 @@
 ## Actual Tech Stack that i know currently
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,go,react,svelte,tailwind,scss,bun,nodejs,pnpm" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,go,react,svelte,tailwind,scss,bun,nodejs,pnpm,yarn" />
     <br></br>
     <img src="https://skillicons.dev/icons?i=nextjs,django,flask,fastapi,spring" />
      <br></br>
