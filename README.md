@@ -16,12 +16,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-<detail>
+<details>
   <summary> <h3>📊 GitHub Stats</h3></summary>
+  <br></br>
+  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=gruvbox)
-</detail>
+</details>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
