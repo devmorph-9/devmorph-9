@@ -15,11 +15,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats
+
+<detail>
+  <summary> <h3>📊 GitHub Stats</h3></summary>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
 
-## Streak Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=gruvbox)
+</detail>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
