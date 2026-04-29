@@ -1,5 +1,5 @@
-<p>I,m Devmorph-9, i have a question and try to find it answer using code, i pick ton of random project and work in my free time</p>
-
+<p>I'm Devmorph-9 - I'm a full stack developer.
+I explore random ideas, pick random project and build side projects in free time
 ## 🙋 About Me
 - 🔭 I'm currently working on **SuperApp**
 - 🌱 I'm learning **Python**
