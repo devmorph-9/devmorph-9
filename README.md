@@ -6,7 +6,7 @@ currently working on this project, this are few of my project and this is what i
 
 **Following the technologies that use mostly (incl. Languages, Framworks, Tools, Libraries, etc.]**
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,mongodb,redis" height="45" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,mongodb,redis" height="40" />
   </a>
 
 **<h4>Social media and other links</h4>**
