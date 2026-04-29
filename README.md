@@ -3,7 +3,6 @@
 
 <p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
-currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that</p>
 
 **Following the technologies that use mostly (incl. Languages, Framworks, Tools, Library, etc.]**
 <p>
@@ -12,7 +11,7 @@ currently working on this project, this are few of my project and this is what i
   </a>
 </p>
 
-**Social media and other links**
+**<h4>Social media and other links</h4>**
 <p>
 <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
