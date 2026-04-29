@@ -6,8 +6,14 @@
 <p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that</p>
- 
 
+ ## 
+Following the technologies that use (incl. Languages, Framworks, Tools, Library, etc.]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,vue,go,nextjs,nuxtjs,fastapi,laravel,docker,aws,cicd,postgres,mongodb,redis" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
