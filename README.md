@@ -1,8 +1,7 @@
-<p>I'm Devmorph-9 - I'm a full stack developer.
- I explore random ideas, pick random project and build side projects in free time</p>
+I'm Devmorph-9 - I'm a full stack developer.
+ I explore random ideas, pick random project and build side projects in free time
 
-**<h4>Current Working on</h4>**
-<p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
+**Current Working on** this project, this are few of my project and this is what i m learning like how to make use of this to build that
 currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 
 **Following the technologies that use mostly (incl. Languages, Framworks, Tools, Library, etc.]**
@@ -32,9 +31,8 @@ currently working on this project, this are few of my project and this is what i
 </p>
 
 <details>
-  <summary>**<h4>GitHub Stats for Nerds 🤓</h4>**</summary>
-  <br></br>
- 
+  <summary>GitHub Stats for Nerds 🤓</summary>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=gruvbox)
