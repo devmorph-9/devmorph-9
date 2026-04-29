@@ -43,9 +43,11 @@ currently working on this project, this are few of my project and this is what i
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmorph-9&theme=gruvbox)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=gruvbox)
 </details>
 
-## Trophy casing
-![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=gruvbox)
+
+
 
 \
