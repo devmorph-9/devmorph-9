@@ -55,12 +55,12 @@
   </a>
 </p>
 
-## Actual Tech Stack that i know currently
+### Technology that i use moslty [inc. Languages, Framework, Library]
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,go,react,svelte,tailwind,scss,bun,nodejs,pnpm,yarn" />
     <br></br>
-    <img src="https://skillicons.dev/icons?i=nextjs,django,flask,fastapi,spring" />
+    <img src="https://skillicons.dev/icons?i=nextjs,django,flask,fastapi,spring,laravel" />
      <br></br>
     <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis," />
      <br></br>
