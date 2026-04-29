@@ -11,7 +11,7 @@ currently working on this project, this are few of my project and this is what i
 **Following the technologies that use mostly (incl. Languages, Framworks, Tools, Library, etc.]**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,redis" />
   </a>
 </p>
 
