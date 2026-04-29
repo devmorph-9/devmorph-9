@@ -1,6 +1,7 @@
 <p>I'm Devmorph-9 - I'm a full stack developer.
  I explore random ideas, pick random project and build side projects in free time</p>
 
+**<h4>Current Working on</h4>**
 <p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that
 
@@ -11,7 +12,7 @@ currently working on this project, this are few of my project and this is what i
   </a>
 </p>
 
-**<h3>Social media and other links</h3>**
+**<h4>Social media and other links</h4>**
 <p>
 <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -31,7 +32,7 @@ currently working on this project, this are few of my project and this is what i
 </p>
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>**<h4>GitHub Stats for Nerds 🤓</h4>**</summary>
   <br></br>
  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmorph-9&show_icons=true&theme=gruvbox)
