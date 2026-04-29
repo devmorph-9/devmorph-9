@@ -1,6 +1,4 @@
-<h1 align="center" style="color: blue">Hello World</h1>
-<h2 align="center">I'm Devmorph-9</h2>
-<h4 align="center">I am a Solo Indie Developer from Italy</h4>
+<p>I,m Devmorph-9, i have a question and try to find it answer using code, i pick ton of random project and work in my free time</p>
 
 ## 🙋 About Me
 - 🔭 I'm currently working on **SuperApp**
