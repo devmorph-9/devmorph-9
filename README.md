@@ -1,14 +1,13 @@
-<p>I'm Devmorph-9 - I'm a full stack developer.
-I explore random ideas, pick random project and build side projects in free time
-</p>
-  
-## 🙋 About Me
-- 🔭 I'm currently working on **SuperApp**
-- 🌱 I'm learning **Python**
-- 👯 I'm looking to collaborate on **SuperApp project**
-- 💬 Ask me about **4 year expirence in Java**
-- 📫 Reach me at: **devteams@email.com**
-- ⚡ Fun fact: **This is created by AI**
+<p>I'm Devmorph-9 - I'm a full stack developer.</p>
+<p>I explore random ideas, pick random project and build side projects in free time</p>
+
+
+##  
+<p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that</p>
+<p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that</p>
+<p>currently working on this project, this are few of my project and this is what i m learning like how to make use of this to build that</p>
+ 
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
