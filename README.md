@@ -35,7 +35,6 @@ currently working on this project, this are few of my project and this is what i
 </a>
 </p>
 
-
 <details>
   <summary>📊 GitHub Stats</summary>
   <br></br>
@@ -46,8 +45,3 @@ currently working on this project, this are few of my project and this is what i
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=devmorph-9&theme=gruvbox)
 </details>
-
-
-
-
-\
