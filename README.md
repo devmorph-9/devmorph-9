@@ -3,7 +3,7 @@ I explore random ideas, pick random project and build them in free time</p>
 
 **Current Working on:** this project, [good project](https://github.com/YOUR_USERNAME/REPO_NAME) are few of my project and this is what i m learning like how to make use of this to build that currently working on this project, this are few of my project and thist.
 
-**Following the technologies that use mostly (incl. Languages, Framworks, Tools, Libraries, etc.)** 👇
+**Following are the technologies that i use mostly (incl. Languages, Framworks, Tools, Libraries, etc.)** 👇
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,redis" height="40" />
