@@ -6,7 +6,7 @@ I explore random ideas, pick random project and build them in free time</p>
 **Following the technologies that use mostly (incl. Languages, Framworks, Tools, Libraries, etc.)** 👇
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,redis" height="40" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,nongodb,redis" height="40" />
   </a>
 
 **<h4>Social media and other links 🔗</h4>** 
