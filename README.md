@@ -1,12 +1,11 @@
-<p>I'm Devmorph-9 - I'm a full stack developer.
-I explore random ideas, pick random project and build them in free time</p>
+<p>I love to code l</p>
 
 **Current Working on:** this project, [good project](https://github.com/YOUR_USERNAME/REPO_NAME) are few of my project and this is what i m learning like how to make use of this to build that currently working on this project, this are few of my project and thist.
 
 **Following are the technologies that i use mostly (incl. Languages, Framworks, Tools, Libraries, etc.)** 👇
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,redis" height="40" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,go,rust,nextjs,nuxt,fastapi,laravel,docker,aws,postgres,redis" height="36" />
   </a>
 
 **<h4>Social media and other links 🔗</h4>** 
